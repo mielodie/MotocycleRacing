@@ -1,0 +1,348 @@
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\appsettings.Development.json
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\appsettings.json
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.exe
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.deps.json
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.runtimeconfig.json
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.pdb
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Azure.Core.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Azure.Identity.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Humanizer.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.CodeDom.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.Text.Json.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Công nghệ Web\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.AssemblyReference.cache
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.AssemblyInfoInputs.cache
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.AssemblyInfo.cs
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.CoreCompileInputs.cache
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.MvcApplicationPartsAssemblyInfo.cs
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.MvcApplicationPartsAssemblyInfo.cache
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.MotorcycleRacing.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.build.MotorcycleRacing.props
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MotorcycleRacing.props
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MotorcycleRacing.props
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.build.json
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.development.json
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\scopedcss\bundle\MotorcycleRacing.styles.css
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.CopyComplete
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.dll
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\refint\MotorcycleRacing.dll
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.pdb
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.genruntimeconfig.cache
+D:\Công nghệ Web\MotorcycleRacing\obj\Debug\net6.0\ref\MotorcycleRacing.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\appsettings.json
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.exe
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.deps.json
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.runtimeconfig.json
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.pdb
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Azure.Core.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Azure.Identity.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Humanizer.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.CodeDom.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Text.Json.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.AssemblyReference.cache
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.AssemblyInfoInputs.cache
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.AssemblyInfo.cs
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.CoreCompileInputs.cache
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.MotorcycleRacing.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.build.MotorcycleRacing.props
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MotorcycleRacing.props
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MotorcycleRacing.props
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\scopedcss\bundle\MotorcycleRacing.styles.css
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.CopyComplete
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\refint\MotorcycleRacing.dll
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.pdb
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.genruntimeconfig.cache
+D:\Projects C#\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\ref\MotorcycleRacing.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.exe
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.deps.json
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.runtimeconfig.json
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.pdb
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.MotorcycleRacing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.build.MotorcycleRacing.props
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MotorcycleRacing.props
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MotorcycleRacing.props
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\scopedcss\bundle\MotorcycleRacing.styles.css
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.CopyComplete
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\refint\MotorcycleRacing.dll
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.pdb
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Project_MotoGP\Project_MotoGP\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\ref\MotorcycleRacing.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\appsettings.Development.json
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\appsettings.json
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.exe
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.deps.json
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.runtimeconfig.json
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\MotorcycleRacing.pdb
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Azure.Core.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Azure.Identity.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Humanizer.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.CodeDom.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Text.Json.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.AssemblyReference.cache
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.AssemblyInfoInputs.cache
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.AssemblyInfo.cs
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.CoreCompileInputs.cache
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.MvcApplicationPartsAssemblyInfo.cs
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.MvcApplicationPartsAssemblyInfo.cache
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.MotorcycleRacing.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.build.MotorcycleRacing.props
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MotorcycleRacing.props
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MotorcycleRacing.props
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.build.json
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\staticwebassets.development.json
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\scopedcss\bundle\MotorcycleRacing.styles.css
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.csproj.CopyComplete
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\refint\MotorcycleRacing.dll
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.pdb
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\MotorcycleRacing.genruntimeconfig.cache
+D:\Công nghệ Web\MotorcycleRacing\MotorcycleRacing\obj\Debug\net6.0\ref\MotorcycleRacing.dll
